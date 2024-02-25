@@ -11,7 +11,7 @@ Welcome to the "Analyzing Netflix Content: A Tableau Exploration" project! In th
 - [Data Sources](#data-sources)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
+- [Contribution](#contribution)
 
 ## Project Overview
 
@@ -19,12 +19,12 @@ This project aims to provide an in-depth analysis of Netflix content leveraging 
 
 ## Data Sources
 
-The data used in this analysis is sourced from [insert data sources here]. It includes information about Netflix titles, including metadata like title, type (movie or TV show), release year, country, and more.
+The data used in this analysis is sourced from [netflix_titles.csv]. It includes information about Netflix titles, including metadata like title, type (movie or TV show), release year, country, and more.
 
 ## Project Structure
 
-- **/data**: This directory contains the datasets used in the analysis.
-- **/visualizations**: Here you can find the Tableau workbooks and visualizations created during the analysis.
+- **netflix_titles.csv**: This directory contains the datasets used in the analysis.
+- **Tableau Portfolio project.twbx**: Here you can find the Tableau workbooks and visualizations created during the analysis.
 
 ## Getting Started
 
@@ -35,8 +35,16 @@ To explore the visualizations and findings of this project, follow these steps:
 3. Open the Tableau workbooks (.twb or .twbx files) using Tableau Desktop or Tableau Reader.
 4. Interact with the visualizations to explore insights and trends in Netflix content.
 
+## Insights
 
-## Contributing
+- Revealed that the United States emerged as the top producer of content
+- Unveiled documentaries and stand-up comedy as the most prevalent genres, while children and family movies were less prominent
+- Found 'TV-MA' to be the most common rating, while 'NC-17' was the least prevalent
+- Indicated a steady growth in the content library over the years, with a notable surge in 2020
+- Discovered that 68.42% of Netflix content comprises movies, while TV shows make up 31.58%
+
+
+## Contribution
 
 If you would like to contribute to this project, please follow these guidelines:
 
