@@ -1,13 +1,13 @@
 # Analyzing Netflix Content: A Tableau Exploration
 
-## Introduction
+## Project Overview
 
-Welcome to the "Analyzing Netflix Content: A Tableau Exploration" project! In this repository, you'll find an exploration of Netflix content using Tableau to uncover insights, trends, and patterns within the vast array of shows and movies available on the platform.
+This project aims to provide an in-depth analysis of Netflix content leveraging the visualization capabilities of Tableau. By exploring various dimensions such as genres, release years, ratings, and more, we seek to uncover trends and insights that shed light on the diverse landscape of Netflix offerings.
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Project Overview](#project-overview)
+- [Introduction](#introduction)
 - [Data Sources](#data-sources)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
@@ -15,9 +15,9 @@ Welcome to the "Analyzing Netflix Content: A Tableau Exploration" project! In th
 - [Insights](#insights)
 - [Contribution](#contribution)
 
-## Project Overview
+  ## Introduction
 
-This project aims to provide an in-depth analysis of Netflix content leveraging the visualization capabilities of Tableau. By exploring various dimensions such as genres, release years, ratings, and more, we seek to uncover trends and insights that shed light on the diverse landscape of Netflix offerings.
+Welcome to the "Analyzing Netflix Content: A Tableau Exploration" project! In this repository, you'll find an exploration of Netflix content using Tableau to uncover insights, trends, and patterns within the vast array of shows and movies available on the platform.
 
 ## Data Sources
 
