@@ -11,6 +11,8 @@ Welcome to the "Analyzing Netflix Content: A Tableau Exploration" project! In th
 - [Data Sources](#data-sources)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
+- [Features](#features)
+- [Insights](#insights)
 - [Contribution](#contribution)
 
 ## Project Overview
@@ -34,6 +36,14 @@ To explore the visualizations and findings of this project, follow these steps:
 2. Navigate to the `/visualizations` directory.
 3. Open the Tableau workbooks (.twb or .twbx files) using Tableau Desktop or Tableau Reader.
 4. Interact with the visualizations to explore insights and trends in Netflix content.
+
+## Features
+
+-Geographical Distribution of Content: Visualize the distribution of Netflix's content production across various countries.
+-Genre Exploration: Identify prevalent genres using visual representations.
+-Rating Analysis: Explore the breakdown of content ratings to discern audience preferences.
+-Expansion of Content Library Over Time: Monitor the growth of Netflix's content library across different years.
+-Comparison Between Movies and TV Shows: Understand the distribution of content by differentiating between movies and TV shows.
 
 ## Insights
 
